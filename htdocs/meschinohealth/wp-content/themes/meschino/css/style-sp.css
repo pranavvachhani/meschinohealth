@@ -1,0 +1,55 @@
+
+/*===Global Style===*/
+img{ max-width: 100%; height: auto; }
+.img-thumbnail{ border-radius: 0px; }
+.about-head{ padding-top: 40px; }
+.about-head h3{ line-height: 30px; font-size: 22px; }
+.books-page img{ max-width: 100%; height: auto; }
+.video-frame{margin: 25px auto;}
+#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a.mega-menu-link{ line-height: 25px; }
+/*==========  Non-Mobile First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	.about-head h3 {
+		line-height: 26px;
+		font-size: 18px;
+		margin-top: 0px;
+		padding-top: 0;
+	}
+	.supplement .img-block img{ display: none; }
+	.supplement{ border:none; }
+	.supplement .img-block h2 span{ padding-left: 0px; }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.about-head h3{margin-top: 20px;}
+	.supplement .img-block{float: left; width: 100%; margin-bottom: 20px;}
+	.supplement .img-block h2{ position: relative; line-height: 25px; top: 0px; left: 0px;}
+	.supplement .img-block h2 span{ width: auto; }
+	.supplement .supplements-women-left{ width: 100%; }
+	.supplements-for-men .content{ padding:0 10px 35px; margin:40px 0 40px;}
+	.book-image{ margin: 15px 0; }
+	.category .content .media-list, .archive  .content .media-list{
+		column-count: 2;
+	}
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+	.category .content .media-list, .archive  .content .media-list{
+		column-count: 1;
+	}
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {
+	.sunil{ background: white; }
+	.test-2{border-bottom: 1px solid red;}
+}

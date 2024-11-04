@@ -1,0 +1,35 @@
+.p2hc-post {
+	position: relative;
+}
+
+.p2hc-post .date-stamp {
+    display: block;
+    background: rgba(0,0,0,.7);
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px 9px 7px;
+    border-radius: 2px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    z-index: 2;	
+}
+
+.p2hc-post .date-stamp .month {
+    display: block;
+}
+
+.p2hc-post .image {
+    margin-bottom: 15px;
+}
+
+.p2hc-post .image img {
+    width: 100%;
+}
+
+@media screen and (min-width: 56.875em) {
+	.widget .p2hc-post h2 {
+		margin-bottom: 10px;
+	}
+}

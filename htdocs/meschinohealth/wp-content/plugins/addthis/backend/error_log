@@ -1,0 +1,9 @@
+[04-Sep-2020 11:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/h3sspyr5xbkl/public_html/wp-content/plugins/addthis/backend/AddThisAdminUtilities.php:63
+Stack trace:
+#0 /home/h3sspyr5xbkl/public_html/wp-content/plugins/addthis/backend/AddThisAdminUtilities.php(207): AddThisAdminUtilities::isAdminInterface()
+#1 /home/h3sspyr5xbkl/public_html/wp-content/plugins/addthis/backend/AddThisAmp.php(3): require_once('/home/h3sspyr5x...')
+#2 /home/h3sspyr5xbkl/public_html/wp-content/plugins/addthis/backend/AddThisGlobalOptionsFeature.php(22): require_once('/home/h3sspyr5x...')
+#3 /home/h3sspyr5xbkl/public_html/wp-content/plugins/addthis/backend/AddThisTool.php(22): require_once('/home/h3sspyr5x...')
+#4 /home/h3sspyr5xbkl/public_html/wp-content/plugins/addthis/backend/AddThisFollowButtonsToolParent.php(21): require_once('/home/h3sspyr5x...')
+#5 /home/h3sspyr5xbkl/public_html/wp-content/plugins/addthis/backend/AddThisFollowButtonsHorizontalTool.php(21): require_once('/home/h3sspyr5x...')
+#6 /home/h3sspyr5xbkl/public_html/w in /home/h3sspyr5xbkl/public_html/wp-content/plugins/addthis/backend/AddThisAdminUtilities.php on line 63

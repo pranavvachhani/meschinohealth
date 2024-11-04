@@ -1,0 +1,69 @@
+<?php /* Template Name: Video Gallery Page Template */ ?>
+
+<?php MhWp::get_template_parts( array( 'parts/shared/html-header', 'parts/shared/header' ) ); ?>
+<div class="breadcrumbs" typeof="BreadcrumbList" vocab="http://schema.org/">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<?php if(function_exists('bcn_display')) {
+				    bcn_display();
+				} ?>		
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Inner Page Banner Section -->
+<?php 
+	$banner_tle = get_field( "banner_title" );
+	$banner_img = get_field( "banner_image" );
+ ?>
+<?php if( $banner_tle || $banner_img ) { ?> 
+<div class="innerpagebanner" style="background-image: url(<?php the_field('banner_image'); ?>);">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<h3><?php the_field('banner_title'); ?></h3>
+			</div>
+		</div>
+	</div>
+</div>
+<?php } ?>
+<div class="container">
+	<div class="content">
+		<div class="video-gallery">
+			<h3>Dr. James Meschino</h3>
+
+			<!-- Video Gallery List -->
+			<?php 
+			// args
+			$args = array(
+				'posts_per_page' => 1000,
+				'post_type'		=> 'videogallery'
+			);
+			// query
+			$the_query = new WP_Query( $args ); ?>
+				<ul class="item-list">
+				<?php if( $the_query->have_posts() ): ?>
+					<?php while( $the_query->have_posts() ) : $the_query->the_post(); ?>
+						<li>
+							<a href="<?php the_permalink(); ?>">
+								<?php
+									$youtube_add_video_url = get_field( "youtube_add_video_url" ); 
+									$youtubeurl = explode("/", $youtube_add_video_url);
+									$youtube = end($youtubeurl);
+									$youtubecrop = substr($youtube, 8);
+								?>
+								<?php if( $youtube_add_video_url ) { ?>
+									<span class="image-wrap"><img src="//img.youtube.com/vi/<?php echo $youtubecrop; ?>/mqdefault.jpg" alt=""></span>
+								<?php } ?>
+								<span class="image-caption"><?php the_title(); ?></span>
+							</a>
+						</li>	
+					<?php endwhile; ?>
+				<?php endif; ?>
+				</ul>
+			<?php wp_reset_query();	 // Restore global post data stomped by the_post(). ?>
+		</div>
+	</div>
+</div>
+<?php MhWp::get_template_parts( array( 'parts/shared/footer','parts/shared/html-footer') ); ?>

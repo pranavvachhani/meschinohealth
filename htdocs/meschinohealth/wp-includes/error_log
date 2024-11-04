@@ -1,0 +1,81 @@
+[15-Aug-2020 18:58:10 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[15-Aug-2020 18:58:10 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[15-Aug-2020 18:58:10 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[15-Aug-2020 18:58:10 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[15-Aug-2020 18:58:21 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[15-Aug-2020 18:58:21 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[15-Aug-2020 18:58:21 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[15-Aug-2020 18:58:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[15-Aug-2020 18:58:33 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[15-Aug-2020 18:58:33 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[15-Aug-2020 18:58:33 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[15-Aug-2020 18:58:33 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:21:51 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:21:52 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:21:52 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:21:52 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:21:56 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:21:56 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:21:56 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:21:56 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:22:03 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:22:03 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:22:03 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 09:22:03 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[04-Sep-2020 15:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/h3sspyr5xbkl/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/h3sspyr5xbkl/public_html/wp-includes/feed-atom-comments.php on line 8
+[17-Sep-2020 19:19:58 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[17-Sep-2020 19:19:58 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[17-Sep-2020 19:19:58 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[17-Sep-2020 19:19:58 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/h3sspyr5xbkl/public_html/wp-includes/functions.php on line 8
+[21-Sep-2020 07:59:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/h3sspyr5xbkl/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/h3sspyr5xbkl/public_html/wp-includes/locale.php on line 11
+[22-Sep-2020 04:46:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/h3sspyr5xbkl/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/h3sspyr5xbkl/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[05-Jun-2022 22:10:04 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[05-Jun-2022 22:10:04 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[05-Jun-2022 22:10:04 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[05-Jun-2022 22:10:04 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[10-Aug-2022 23:19:12 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[10-Aug-2022 23:19:12 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[10-Aug-2022 23:19:12 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[10-Aug-2022 23:19:12 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[17-Aug-2022 20:44:44 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[17-Aug-2022 20:44:44 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[17-Aug-2022 20:44:44 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[17-Aug-2022 20:44:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[26-Aug-2022 05:17:16 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/cache.php on line 12
+[26-Aug-2022 05:17:16 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/cache.php on line 12
+[26-Aug-2022 05:17:16 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-wp-object-cache.php): failed to open stream: No such file or directory in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/cache.php on line 12
+[26-Aug-2022 05:17:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-object-cache.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/cache.php on line 12
+[30-Aug-2022 21:07:57 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/cache.php on line 12
+[30-Aug-2022 21:07:57 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/cache.php on line 12
+[30-Aug-2022 21:07:57 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-wp-object-cache.php): failed to open stream: No such file or directory in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/cache.php on line 12
+[30-Aug-2022 21:07:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-object-cache.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/cache.php on line 12
+[22-Oct-2022 23:27:33 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[22-Oct-2022 23:27:33 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[22-Oct-2022 23:27:33 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[22-Oct-2022 23:27:33 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[02-Dec-2022 06:12:17 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/compat.php on line 329
+[02-Dec-2022 06:12:17 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/compat.php on line 329
+[02-Dec-2022 06:12:17 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/compat.php on line 329
+[02-Dec-2022 06:12:17 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/compat.php on line 329
+[31-Jan-2023 03:51:12 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[31-Jan-2023 03:51:12 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[31-Jan-2023 03:51:12 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[31-Jan-2023 03:51:12 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[06-May-2023 09:00:27 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[06-May-2023 09:00:27 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[06-May-2023 09:00:27 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[06-May-2023 09:00:27 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[02-Jul-2023 06:43:23 UTC] PHP Fatal error:  Call to undefined function wp_using_themes() in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/template-loader.php on line 7
+[22-Aug-2023 03:17:55 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[22-Aug-2023 03:17:55 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[22-Aug-2023 03:17:55 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8
+[22-Aug-2023 03:17:55 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rjzignfhl1ag/meschinohealth.com/wp-includes/functions.php on line 8

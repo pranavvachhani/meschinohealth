@@ -1,0 +1,1 @@
+[13-Aug-2017 00:45:20 America/Los_Angeles] PHP Fatal error:  Call to undefined function add_action() in /home/meschi5/stage.meschinohealth.com/wp-content/plugins/hello.php on line 60

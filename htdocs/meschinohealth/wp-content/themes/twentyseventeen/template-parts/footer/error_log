@@ -1,0 +1,8 @@
+[31-Mar-2022 03:44:30 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[31-Mar-2022 04:18:16 UTC] PHP Fatal error:  Call to undefined function esc_url() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 13
+[13-Jul-2022 16:10:12 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[13-Jul-2022 16:10:19 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[13-Jul-2022 16:10:24 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[19-Jul-2022 16:41:47 UTC] PHP Fatal error:  Call to undefined function esc_url() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 13
+[19-Jul-2022 16:41:56 UTC] PHP Fatal error:  Call to undefined function esc_url() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 13
+[19-Jul-2022 16:42:03 UTC] PHP Fatal error:  Call to undefined function esc_url() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 13

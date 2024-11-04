@@ -1,0 +1,17 @@
+[15-Jan-2021 08:45:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/h3sspyr5xbkl/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/h3sspyr5xbkl/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[15-Jan-2021 08:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/h3sspyr5xbkl/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/h3sspyr5xbkl/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[30-Apr-2022 01:50:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentytwenty/index.php on line 17
+[06-Jun-2022 00:39:18 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentytwenty/index.php on line 17
+[29-Jun-2022 10:07:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentytwenty/index.php on line 17
+[26-Aug-2022 05:16:52 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentytwenty/404.php on line 10
+[30-Aug-2022 21:07:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentytwenty/404.php on line 10
+[29-Oct-2023 15:54:36 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentytwenty/index.php on line 17
+[09-Dec-2023 22:43:18 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentytwenty/404.php on line 10
+[18-Dec-2023 08:51:02 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentytwenty/404.php on line 10
+[27-Dec-2023 05:43:02 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/rjzignfhl1ag/meschinohealth.com/wp-content/themes/twentytwenty/404.php on line 10
